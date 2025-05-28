@@ -1,6 +1,6 @@
 ### Questions
 
-    Q1. Write a Python function to rotate a list n steps to the right.
+    Q1. Write a Python function to rotate/reverse a list.
 
     Q2. Implement a stack using a list. Include push, pop, peek, and is_empty methods.
 
