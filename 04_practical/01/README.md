@@ -1,4 +1,6 @@
-### Questions
+# Questions
+
+## create a file per question
 
     Q1. Write a Python function to rotate/reverse a list.
 
